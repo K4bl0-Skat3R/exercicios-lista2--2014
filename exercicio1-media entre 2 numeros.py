@@ -1,4 +1,4 @@
-#coding:utf-8 (desmarquie porque meu teclado ta US aqui no linux)
+#coding:utf-8 
 # media entre 2 numeros
 # aluno Genilson
 # professor Habib
