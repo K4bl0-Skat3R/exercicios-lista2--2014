@@ -1,4 +1,4 @@
-#coding:utf-8 (desmarquei porque meu teclado ta US aqui no linux)
+#coding:utf-8 
 # algoritimo volume de uma esfera de raio R
 # aluno Genilson
 # professor Habib
