@@ -1,4 +1,4 @@
-#coding:utf-8 (desmarquei porque meu teclado ta US aqui no linux)
+#coding:utf-8 
 # ler um numero inteiro caucular e mostrar seu quadrado e seu cubo
 # aluno Genilson
 # professor Habib
